@@ -1,4 +1,7 @@
-## Hi there 👋
+## Yo 👋🏿
+- 🔭 I’m currently working on a manicure creation website.
+- 🌱 I’m currently learning Javascript.
+![Gif of Jenna Marbles smiling with the words "Hell" and "Yeah" replacing her eyebrows](https://media1.tenor.com/m/5Gnho6t6jUQAAAAC/jenna-marbles-youtuber.gif)
 
 <!--
 **pbassey17/pbassey17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
